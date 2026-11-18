@@ -5,7 +5,7 @@
 **Date :** 18/11/2026
 **Branche :** `audit/rescueops`
 **Type de revue :** Auto-revue
-**URL de la PR :** À compléter après création
+**URL de la PR :** (https://github.com/jcrangon/RescueOps_B2_TP_FINAL/pull/6)
 
 ## R-01 — Vérification de la réserve de batterie
 

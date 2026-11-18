@@ -160,7 +160,7 @@ Aucune approbation GitHub par un relecteur externe n'est revendiquée.
 
 **Branche cible :** `main`
 
-**URL réelle de la Pull Request :** À compléter après création.
+**URL réelle de la Pull Request :** `https://github.com/jcrangon/RescueOps_B2_TP_FINAL/pull/6`
 
 **Statut :** Draft PR pendant la finalisation, puis Ready for review.
 
