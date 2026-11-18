@@ -1,7 +1,7 @@
 # [RescueOps] Correction des règles métier et de la confidentialité
 
-**Auteur :** Rayane Badi  
-**GitHub :** Badi763  
+**Auteur :** Rayane Badi
+**GitHub :** Badi763
 **Branche :** `audit/rescueops`
 
 ## Problème observé

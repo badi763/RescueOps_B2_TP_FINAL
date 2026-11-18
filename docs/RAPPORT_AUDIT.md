@@ -1,10 +1,10 @@
 # Rapport d'audit — RescueOps
 
-**Auteur :** Rayane Badi  
-**Pseudo GitHub :** Badi763  
-**Date de l'audit :** 09/11/2026  
-**Mise à jour des preuves :** 18/11/2026  
-**Commit de base :** `5e99359aa7cb8ad6a79a67a02373300e8b5a6873`  
+**Auteur :** Rayane Badi
+**Pseudo GitHub :** Badi763
+**Date de l'audit :** 09/11/2026
+**Mise à jour des preuves :** 18/11/2026
+**Commit de base :** `5e99359aa7cb8ad6a79a67a02373300e8b5a6873`
 **Branche de correction :** `audit/rescueops`
 
 ## Constats d'audit

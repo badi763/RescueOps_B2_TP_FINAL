@@ -1,16 +1,16 @@
 # Trace de revue — RescueOps
 
-**Auteur :** Rayane Badi  
-**Pseudo GitHub :** Badi763  
-**Date :** 18/11/2026  
-**Branche :** `audit/rescueops`  
-**Type de revue :** Auto-revue  
+**Auteur :** Rayane Badi
+**Pseudo GitHub :** Badi763
+**Date :** 18/11/2026
+**Branche :** `audit/rescueops`
+**Type de revue :** Auto-revue
 **URL de la PR :** À compléter après création
 
 ## R-01 — Vérification de la réserve de batterie
 
-**Fichier :** `src/dispatch.js`  
-**Fonction :** `deployDrone`  
+**Fichier :** `src/dispatch.js`
+**Fonction :** `deployDrone`
 **Règle concernée :** RO-04
 
 ### Remarque
