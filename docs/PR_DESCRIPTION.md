@@ -2,7 +2,7 @@
 
 **Auteur :** Rayane Badi
 **GitHub :** Badi763
-**Branche :** `audit/rescueops`
+**Branche :** `TP_RescueOps_Rayane_Badi`
 
 ## Problème observé
 
@@ -154,13 +154,13 @@ Aucune approbation GitHub par un relecteur externe n'est revendiquée.
 
 **Dépôt source :** `badi763/RescueOps_B2_TP_FINAL`
 
-**Branche source :** `audit/rescueops`
+**Branche source :** `TP_RescueOps_Rayane_Badi`
 
 **Dépôt cible :** `jcrangon/RescueOps_B2_TP_FINAL`
 
 **Branche cible :** `main`
 
-**URL réelle de la Pull Request :** `https://github.com/jcrangon/RescueOps_B2_TP_FINAL/pull/6`
+**URL réelle de la Pull Request :** `https://github.com/jcrangon/RescueOps_B2_TP_FINAL/pull/2`
 
 **Statut :** Draft PR pendant la finalisation, puis Ready for review.
 

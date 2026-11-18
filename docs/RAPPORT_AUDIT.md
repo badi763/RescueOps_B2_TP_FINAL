@@ -5,7 +5,7 @@
 **Date de l'audit :** 09/11/2026
 **Mise à jour des preuves :** 18/11/2026
 **Commit de base :** `5e99359aa7cb8ad6a79a67a02373300e8b5a6873`
-**Branche de correction :** `audit/rescueops`
+**Branche de correction :** `TP_RescueOps_Rayane_Badi`
 
 ## Constats d'audit
 
@@ -61,6 +61,6 @@ La sortie publique JavaScript après déploiement présente seulement `id`, `sta
 
 ## Conclusion d'audit
 
-Les sept anomalies A-01 à A-07 ont été corrigées. Les tests JavaScript, les contrôles PHP, la syntaxe PHP et la démonstration ont été vérifiés avec succès. Les modifications sont enregistrées dans quatre commits de correction sur la branche `audit/rescueops`.
+Les sept anomalies A-01 à A-07 ont été corrigées. Les tests JavaScript, les contrôles PHP, la syntaxe PHP et la démonstration ont été vérifiés avec succès. Les modifications sont enregistrées dans quatre commits de correction sur la branche `TP_RescueOps_Rayane_Badi`.
 
 Il reste à intégrer le présent rapport mis à jour dans cette branche, terminer la description de la Pull Request et l'auto-revue, puis vérifier la PR réelle du fork `badi763/RescueOps_B2_TP_FINAL` vers la branche `main` du dépôt du formateur. La PR ne doit pas être fusionnée sans son accord.
